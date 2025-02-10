@@ -23,7 +23,7 @@ Working through Python Machine Learning by Example, 4th Ed.
 
 ### Table of Contents
 #### <ul><li>Ch_1   Getting Started with Machine Learning and Python</ul></li>
-#### <ul><li>Ch_2   Building a Movie Recommendation Engine with Naive Bayes</ul></li> 
+#### <ul><li>Ch_2   Building a Movie Recommendation Engine with Naïve Bayes</ul></li> 
 #### <ul><li>Ch_3   Predicting Online Ad Click-Through with Tree-Based Algorithms</ul></li>
 #### <ul><li>Ch_4   Predicting Online Ad Click-Through with Logistic Regression</ul></li>
 #### <ul><li>Ch_5   Predicting Stock Prices with Regression Algorithms</ul></li>
