@@ -1,6 +1,6 @@
 This chapter demonstrates a Naive Bayes recommender system.
 This is accomplished by building a movie recommendation system (an example 
-of supervised learning using binary classification).
+of supervised learning using binary classification) using the Naive Bayes method.
 
 Topics and Techniques learned in this chapter project included: 
 

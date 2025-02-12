@@ -1,5 +1,8 @@
 # PythonML_by_Example
 Working through Python Machine Learning by Example, 4th Ed.
+Note:
+Individual chapters listed in this repo contain general notes (listed as NOTES_Chx.txt) on the purpose of the chapter and its project(s), as 
+well include a "TermsDefinitions" file that covers salient concepts for the chapter.
 
 ### Languages, Libraries and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
