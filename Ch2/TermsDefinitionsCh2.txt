@@ -39,3 +39,4 @@ Naive Bayes 			-is a probabilistic classifier that computes the
 In Bayes' theorem the probability P(A|B) is the probability that A occurs given that B is true.
 
 P(A|B) = P(B|A)P(A)/P(B)
+
